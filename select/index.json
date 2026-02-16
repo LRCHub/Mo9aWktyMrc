@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ネオメロドラマティック",
+  "base_artist": "Porno Graffitti",
+  "createdAt": "2026-02-16T09:35:41.119362Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ネオメロドラマティック",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/01_ネオメロドラマティック_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ネオメロドラマティック",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/02_ネオメロドラマティック_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ネオメロドラマティック",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/03_ネオメロドラマティック_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ネオメロドラマティック",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/04_ネオメロドラマティック_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ネオメロドラマティック",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/05_ネオメロドラマティック_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネオメロドラマティック",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_01_ネオメロドラマティック_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ネオメロドラマティック",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_02_ネオメロドラマティック_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ネオメロドラマティック",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_03_ネオメロドラマティック_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ネオメロドラマティック",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_04_ネオメロドラマティック_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ネオメロドラマティック",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_05_ネオメロドラマティック_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ネオメロドラマティック",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_06_ネオメロドラマティック_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ネオメロドラマティック",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_07_ネオメロドラマティック_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ネオメロドラマティック(\"PANORAMA×42\"ver.)",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_08_ネオメロドラマティック(_PANORAMA×42_ver.)_ポルノグラフィティ.txt"
+    }
+  ]
+}
